@@ -5,7 +5,7 @@ PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
   productGUID: 5a86b210c1fdd0a47944fb1e9e3bc5bd
-  AndroidProfiler: 1
+  AndroidProfiler: 0
   defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
@@ -76,7 +76,7 @@ PlayerSettings:
   forceSingleInstance: 0
   resizableWindow: 0
   useMacAppStoreValidation: 0
-  gpuSkinning: 1
+  gpuSkinning: 0
   graphicsJobs: 0
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
@@ -119,15 +119,16 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.Andrew.TestVRBuild1
-  bundleVersion: 1.0
+  bundleIdentifier: com.Andrew.SpaceShooterFPS
+  bundleVersion: 1.1
   preloadedAssets: []
   metroInputSource: 0
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
   protectGraphicsMemory: 0
+  useHDRDisplay: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 21
+  AndroidMinSdkVersion: 23
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   apiCompatibilityLevel: 2
@@ -201,8 +202,8 @@ PlayerSettings:
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidTVCompatibility: 0
-  AndroidIsGame: 1
-  androidEnableBanner: 1
+  AndroidIsGame: 0
+  androidEnableBanner: 0
   m_AndroidBanners:
   - width: 320
     height: 180

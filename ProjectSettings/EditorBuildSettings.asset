@@ -15,3 +15,5 @@ EditorBuildSettings:
     path: Assets/_Scenes/RankingsScene.unity
   - enabled: 1
     path: Assets/_Scenes/SettingsScreen.unity
+  - enabled: 1
+    path: Assets/_Scenes/RocksExploding.unity
